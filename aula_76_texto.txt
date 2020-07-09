@@ -1,0 +1,3 @@
+Gerenciador de contexto padrão
+Gerenciador de contexto com classe
+Gerenciador de contexto com contextmanager
